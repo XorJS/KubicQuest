@@ -1,6 +1,6 @@
 # Kubic Quest
 
-Kubic Quest is my 3D game that I did for my end computer science school project in early 2000. 100% in assembly and software rasterier.
+Kubic Quest is my 3D game that I did for my end computer science school project in early 2000. 100% in assembly and software rasterizer.
 
 ![Screenshot0](/Screenshots/screenshot0.png)
 
