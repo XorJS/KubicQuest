@@ -10,7 +10,7 @@ More info here: https://www.jsr-productions.com/blogpost76aaed1.html
 
 [![Kubic Quest: Gameplay](http://img.youtube.com/vi/Ck8Y0p3449Q/0.jpg)](http://www.youtube.com/watch?v=Ck8Y0p3449Q "Kubic Quest: Gameplay")
 
-[![Kubic Quest: Game Over](http://img.youtube.com/vi/v8tOxfxpPFA/0.jpg)](http://www.youtube.com/watch?v=xv8tOxfxpPFA "Kubic Quest: Game Over")
+[![Kubic Quest: Game Over](http://img.youtube.com/vi/v8tOxfxpPFA/0.jpg)](http://www.youtube.com/watch?v=v8tOxfxpPFA "Kubic Quest: Game Over")
 
 ## Requirements
 
